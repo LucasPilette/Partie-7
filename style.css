@@ -1,0 +1,19 @@
+#header{
+    text-align: center;
+    font-size: 3em;
+}
+
+#tableau{
+    display: flex;
+    flex-wrap: wrap;
+}
+.division{
+    display: flex;
+    width: 25%;
+    padding: 20px 0 20px 0;
+}
+
+.affiche{
+    height: 25vh;
+}
+
